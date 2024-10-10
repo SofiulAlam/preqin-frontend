@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/investorcommitments.tsx","./src/components/investorlist.tsx","./src/hooks/useinvestordata.ts","./src/services/investorservices.ts","./src/types/index.ts"],"version":"5.6.3"}
